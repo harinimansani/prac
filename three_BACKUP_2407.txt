@@ -1,0 +1,10 @@
+three3
+<<<<<<< HEAD
+three
+
+
+=======
+
+three
+three
+>>>>>>> newone
